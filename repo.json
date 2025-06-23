@@ -1,0 +1,7 @@
+{
+  "test": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/Yuna-sudo/cctweaked_packages/main/test/test.lua",
+    "dependencies": []
+  }
+}
